@@ -7,3 +7,4 @@ resource "google_storage_bucket" "GCS1" {
     "env" = "tf_env"
     "dep" = "complience"
   }
+}

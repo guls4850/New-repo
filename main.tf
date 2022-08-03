@@ -18,7 +18,7 @@ resource "google_storage_bucket" "GCS2" {
     "dep" = "complience"
   }
 }
-resource "google_storage_bucket" "GCS2" {
+resource "google_storage_bucket" "GCS3" {
 
   name = "newbucket53555-bucket-3"
   storage_class = "NEARLINE"
